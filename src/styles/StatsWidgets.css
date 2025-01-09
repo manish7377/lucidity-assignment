@@ -1,0 +1,21 @@
+.stats-widgets {
+  display: flex;
+  justify-content: space-between;
+  margin: 1.5rem 1rem;
+}
+
+.widget {
+  background-color: rgb(2, 50, 20);
+  border-radius: 8px;
+  padding: 1.5rem;
+  padding-bottom: 0;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  text-align: center;
+  flex: 1;
+  display: flex;
+  margin: 0 0.5rem;
+  font-size: 1.1rem;
+  color: white;
+  align-items: flex-start;
+  gap: 15px;
+}

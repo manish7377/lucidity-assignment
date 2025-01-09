@@ -1,0 +1,29 @@
+.inventory-table {
+    width: 96%;
+    margin: 2rem auto;
+    border-collapse: collapse;
+    background-color: #1d201a;
+    border-radius: 8px;
+    overflow: hidden;
+  }
+  
+  .inventory-table th,
+  .inventory-table td {
+    padding: 1rem;
+    text-align: left;
+    border-bottom: 1px solid #dee2e6;
+  }
+  
+  .inventory-table th {
+    color: rgb(117, 179, 11);
+  }
+  
+  .inventory-table td {
+    color: white;
+  }
+  .actions-button-container{
+    display: flex;
+    gap: 10px;
+    cursor: pointer;
+  }
+  
